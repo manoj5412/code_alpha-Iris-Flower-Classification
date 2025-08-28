@@ -98,8 +98,8 @@ How to Run
 
 Clone this repository:
 
-git clone https://github.com/your-username/iris-flower-classification.git
-cd iris-flower-classification
+git clone [https://github.com/your-username/iris-flower-classification.git
+cd iris-flower-classification](https://github.com/manoj5412/code_alpha-Iris-Flower-Classification.git)
 
 
 Install dependencies:
